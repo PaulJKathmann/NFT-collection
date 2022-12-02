@@ -326,10 +326,10 @@ export default function Home() {
         <div>
           <div className={styles.description}>
             Presale has started!!! If your address is whitelisted, Mint a Crypto
-            Dev 🥳
+            Dev
           </div>
           <button className={styles.button} onClick={presaleMint}>
-            Presale Mint 🚀
+            Presale Mint
           </button>
         </div>
       );
